@@ -8,7 +8,6 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -22,6 +21,7 @@
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
+            <option value="$PROJECT_DIR$/Problems/Even or odd" />
             <option value="$PROJECT_DIR$/Problems/Fill the declaration" />
             <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
@@ -39,9 +39,11 @@
             <option value="$PROJECT_DIR$/Problems/Reading integer numbers" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The length of the sequence" />
             <option value="$PROJECT_DIR$/Problems/The roots of an equation" />
             <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/The sequence (1)" />
             <option value="$PROJECT_DIR$/Problems/The smallest value" />
             <option value="$PROJECT_DIR$/Problems/The sum of elements" />
             <option value="$PROJECT_DIR$/Problems/Triangle" />
